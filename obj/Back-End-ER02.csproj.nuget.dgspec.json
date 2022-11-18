@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Not\\Desktop\\Back-End-ER02\\Back-End-ER02.csproj": {}
+    "C:\\Users\\Not\\Desktop\\Back-End-ER03\\Back-End-ER02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Not\\Desktop\\Back-End-ER02\\Back-End-ER02.csproj": {
+    "C:\\Users\\Not\\Desktop\\Back-End-ER03\\Back-End-ER02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Not\\Desktop\\Back-End-ER02\\Back-End-ER02.csproj",
+        "projectUniqueName": "C:\\Users\\Not\\Desktop\\Back-End-ER03\\Back-End-ER02.csproj",
         "projectName": "Back-End-ER02",
-        "projectPath": "C:\\Users\\Not\\Desktop\\Back-End-ER02\\Back-End-ER02.csproj",
+        "projectPath": "C:\\Users\\Not\\Desktop\\Back-End-ER03\\Back-End-ER02.csproj",
         "packagesPath": "C:\\Users\\Not\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Not\\Desktop\\Back-End-ER02\\obj\\",
+        "outputPath": "C:\\Users\\Not\\Desktop\\Back-End-ER03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Not\\AppData\\Roaming\\NuGet\\NuGet.Config"
