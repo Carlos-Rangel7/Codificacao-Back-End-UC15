@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Not\\Desktop\\Codificação Back-End\\Back-End-ER05\\Back-End-ER05.csproj",
-      "projectName": "Back-End-ER05",
-      "projectPath": "C:\\Users\\Not\\Desktop\\Codificação Back-End\\Back-End-ER05\\Back-End-ER05.csproj",
+      "projectUniqueName": "C:\\Users\\Not\\Desktop\\Codificação Back-End\\Back-End-ER06\\Back-End-ER06.csproj",
+      "projectName": "Back-End-ER06",
+      "projectPath": "C:\\Users\\Not\\Desktop\\Codificação Back-End\\Back-End-ER06\\Back-End-ER06.csproj",
       "packagesPath": "C:\\Users\\Not\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Not\\Desktop\\Codificação Back-End\\Back-End-ER05\\obj\\",
+      "outputPath": "C:\\Users\\Not\\Desktop\\Codificação Back-End\\Back-End-ER06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Not\\AppData\\Roaming\\NuGet\\NuGet.Config"
